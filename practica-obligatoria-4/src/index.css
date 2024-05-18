@@ -1,0 +1,28 @@
+body {
+  background-color: #444444;
+}
+h1, p {
+  color: ghostwhite;
+}
+
+.task-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.section-app {
+  background-color: gray;
+  padding: 20px;
+}
+
+ul {
+  text-align: start;
+  cursor: pointer;
+}
+
+button {
+  margin: 5px;
+}
